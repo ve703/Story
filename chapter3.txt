@@ -1,0 +1,8 @@
+I have learnt how to use the following commands
+ git init
+git status
+git add .
+git commit -m "  "
+git log
+git diff 
+git checkout filename
